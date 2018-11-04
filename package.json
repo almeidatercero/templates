@@ -1,0 +1,20 @@
+{
+  "name": "coralweb",
+  "version": "1.0.0",
+  "description": "web design",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.12.5",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-mamp": "^0.0.5",
+    "gulp-ruby-sass": "^2.1.1",
+    "gulp-sass": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "almeidatercero",
+  "license": "ISC"
+}
